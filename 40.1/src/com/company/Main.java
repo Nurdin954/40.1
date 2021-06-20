@@ -9,7 +9,7 @@ public class Main {
         set.add("Vitaliy");
         set.add("Ravi");
         set.add("Emir");
-        //Traversing elements
+       
         Iterator<String> itr = set.iterator();
         while (itr.hasNext()) {
             System.out.println(itr.next());
